@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=C9A0FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+things+that+work+%E2%80%94+then+automating+them;1%2C790%2B+contributions+this+year+and+counting;AI-native+development+%C2%B7+Zero+infrastructure+cost" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=C9A0FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+things+that+work+%E2%80%94+then+automating+them;AI-native+development+%C2%B7+Zero+infrastructure+cost;Ship+it.+Automate+it.+Never+pay+for+hosting." alt="Typing SVG" />
 </a>
 
 </div>
@@ -130,28 +130,6 @@ I build production backends, AI-powered tools, and full-stack web apps. Everythi
 
 <div align="center">
   <i>All projects self-hosted on a single Hetzner VPS behind Cloudflare Tunnel. Total infra cost: $5/mo.</i>
-</div>
-
----
-
-<!-- STATS -->
-## `> git log --stat`
-
-<div align="center">
-<a href="https://github.com/markkennethbadilla">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=markkennethbadilla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a0ff&icon_color=c9a0ff&text_color=9f9f9f&ring_color=6e40c9&count_private=true" />
-</a>
-<a href="https://github.com/markkennethbadilla">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markkennethbadilla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a0ff&text_color=9f9f9f&langs_count=8" />
-</a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markkennethbadilla&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=c9a0ff&currStreakLabel=c9a0ff&sideLabels=9f9f9f&dates=555555" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markkennethbadilla&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c9a0ff&line=6e40c9&point=c9a0ff&area=true&area_color=6e40c9" width="98%" />
 </div>
 
 ---
