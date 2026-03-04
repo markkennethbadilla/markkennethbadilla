@@ -25,10 +25,10 @@ I grow production systems from the ground up — backends, full-stack web apps, 
       /  ___  \         work entirely."
      /  /   \  \
     /__/     \__\               — me
-   /               \
-  /     _______     \
- /     |       |     \
-/______|_______|______\
+   /             \
+  /    _______    \
+ /    |       |    \
+/_____|_______|_____\
 ```
 
 </div>
