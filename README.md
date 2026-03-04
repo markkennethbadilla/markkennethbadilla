@@ -20,7 +20,7 @@ I grow production systems from the ground up — backends, full-stack web apps, 
 
 > *"The best code is code that replaces manual work entirely."*
 > 
-> — me, mass-automating everything since 2022
+> — me, mass-automating everything
 
 </div>
 
