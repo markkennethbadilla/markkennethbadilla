@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=C9A0FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+things+that+work+%E2%80%94+then+automating+them;AI-native+development+%C2%B7+Zero+infrastructure+cost;Ship+it.+Automate+it.+Never+pay+for+hosting." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=C9A0FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+things+that+work+%E2%80%94+then+automating+them;AI-native+development+%C2%B7+Zero+infrastructure+cost;Ship+it.+Automate+it.+Run+it+all+on+one+box." alt="Typing SVG" />
 </a>
 
 </div>
@@ -19,7 +19,7 @@ const mark = {
   role: "Software Engineer @ Hatchit Solutions",
   degree: "BSIT, Magna Cum Laude — CIT-University '25",
   focus: ["AI Integration", "Backend Systems", "Automation"],
-  philosophy: "Ship it. Automate it. Never pay for hosting.",
+  philosophy: "Ship it. Automate it. Run it all on one box.",
   funFact: "All my side projects run on a single $5/mo VPS"
 };
 ```
