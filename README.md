@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1215,25:1a3a2a,50:2d6a4f,100:52b788&height=230&section=header&text=Mark%20Kenneth%20Badilla&fontSize=42&fontColor=d8f3dc&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Cebu%20City%2C%20Philippines&descSize=15&descColor=95d5b2&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1215,25:1a3a2a,50:2d6a4f,100:52b788&height=230&section=header&text=Mark%20Kenneth%20Badilla&fontSize=42&fontColor=d8f3dc&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Cebu%20City%2C%20Philippines&descSize=15&descColor=95d5b2&descAlignY=55" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=600&size=22&duration=3500&pause=1200&color=95D5B2&center=true&vCenter=true&repeat=true&width=700&height=45&lines=planting+seeds+of+code+%E2%80%94+watching+systems+grow;every+project+is+a+living+ecosystem;rooted+in+craft%2C+reaching+for+the+sun" alt="Typing SVG" />
