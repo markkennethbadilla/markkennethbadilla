@@ -12,9 +12,9 @@
 
 ### 🌱 &nbsp; The Seed
 
-Software engineer from Cebu City, Philippines. BSIT, Magna Cum Laude — CIT-University, class of 2025. Currently at **Hatchit Solutions**.
+AI Engineer from Cebu City, Philippines. BSIT, Magna Cum Laude — CIT-University, class of 2025. Currently at **WeAssist**.
 
-I grow production systems from the ground up — backends, full-stack web apps, and AI tools. Everything runs on self-hosted infrastructure: one $5/mo VPS behind Cloudflare, serving a dozen live projects. I believe in patient craftsmanship — plant good roots, prune what doesn't work, and let automation do the watering.
+I build AI systems, agentic workflows — and production infrastructure. Everything runs on self-hosted infrastructure: one $5/mo VPS behind Cloudflare, serving a dozen live projects. I believe in patient craftsmanship — plant good roots, prune what doesn't work, and let automation do the watering.
 
 <div align="center">
 
