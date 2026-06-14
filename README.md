@@ -14,7 +14,7 @@
 
 AI Engineer from Cebu City, Philippines. BSIT, Magna Cum Laude — CIT-University, class of 2025. Currently at **WeAssist**.
 
-I build AI systems, agentic workflows — and production infrastructure. Everything runs on self-hosted infrastructure: one $5/mo VPS behind Cloudflare, serving a dozen live projects. I believe in patient craftsmanship — plant good roots, prune what doesn't work, and let automation do the watering.
+I build AI systems, agentic workflows — and production infrastructure. I believe in building resilient logic and automating the heavy lifting. I believe in patient craftsmanship — plant good roots, prune what doesn't work, and let automation do the watering.
 
 <div align="center">
 
@@ -92,9 +92,7 @@ I build AI systems, agentic workflows — and production infrastructure. Everyth
 </tr>
 </table>
 
-<div align="center">
-  <i>🌍 All projects self-hosted on a single Hetzner VPS behind Cloudflare Tunnel. Total infra cost: $5/mo.</i>
-</div>
+
 
 ---
 
