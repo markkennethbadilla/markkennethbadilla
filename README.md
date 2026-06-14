@@ -68,46 +68,8 @@ I build AI systems, agentic workflows — and production infrastructure. Everyth
 ### 🗺️ &nbsp; Mapped Terrain
 
 <table>
-<tr>
-<td width="50%">
 
-#### 🏔️ &nbsp; [Argus](https://argus.elunari.uk) — AI Recruiting
 
-> Resume parsing, 6-axis candidate scoring, automated outreach, voice synthesis, 8-model LLM cascade. Full pipeline from intake to interview.
-
-`Next.js` `NestJS` `n8n` `OpenRouter` `PostgreSQL`
-
-</td>
-<td width="50%">
-
-#### 🛠️ &nbsp; [Devkit](https://devkit.elunari.uk) — Developer Toolkit
-
-> 85+ browser-based tools for encoding, formatting, conversion, hashing, and more. Zero dependencies.
-
-`Next.js` `TypeScript` `Tailwind CSS`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🎨 &nbsp; [Elunari Studio](https://studio.elunari.uk) — Web Dev Agency
-
-> AI-powered project intake via text, voice, video, or sketch. Multi-currency pricing, template gallery, AI chat for scoping.
-
-`Next.js` `React` `OpenRouter` `Cloudflare`
-
-</td>
-<td width="50%">
-
-#### 📋 &nbsp; [Mingming Kanban](https://mingming-kanban.elunari.uk) — AI Task Manager
-
-> Kanban board with conversational AI. Natural language task management — just tell it what you need done.
-
-`Next.js` `TypeScript` `PostgreSQL` `OpenRouter`
-
-</td>
-</tr>
 <tr>
 <td width="50%">
 
@@ -138,15 +100,6 @@ I build AI systems, agentic workflows — and production infrastructure. Everyth
 
 <div align="center">
 
-<a href="https://marks-portfolio.elunari.uk">
-  <img src="https://img.shields.io/badge/Portfolio-2d6a4f?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://blog.elunari.uk">
-  <img src="https://img.shields.io/badge/Blog-40916c?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
-<a href="https://elunari.uk">
-  <img src="https://img.shields.io/badge/Elunari-52b788?style=for-the-badge&logo=firefoxbrowser&logoColor=0b1215" />
-</a>
 <a href="mailto:markkennethbadilla@gmail.com">
   <img src="https://img.shields.io/badge/Email-74c69d?style=for-the-badge&logo=gmail&logoColor=0b1215" />
 </a>
