@@ -71,15 +71,6 @@ I build AI systems, agentic workflows — and production infrastructure. I belie
 <tr>
 <td width="50%">
 
-#### 🤖 &nbsp; [Agentic Control Room](https://github.com/markkennethbadilla/public-agentic-control-room) — AI Architecture Orchestrator
-
-> The central CI/CD pipeline and structural governor for all local CLI AI Agents. Dynamically syncs JSON schemas, enforces prompt architectures, and seamlessly deploys unified skills to OpenCode, Gemini, Cursor, Aider, and Claude Code.
-
-`Python` `PowerShell` `Bash` `LLM Architecture`
-
-</td>
-<td width="50%">
-
 #### 🧹 &nbsp; [clean-pipe](https://github.com/markkennethbadilla/clean-pipe) — Data Normalization
 
 > AI pipeline that cleans, validates, and normalizes messy data. Configurable rules, batch processing, LLM-assisted transforms.
@@ -87,8 +78,6 @@ I build AI systems, agentic workflows — and production infrastructure. I belie
 `TypeScript` `OpenRouter` `Node.js`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 #### ⚡ &nbsp; [flow-llm](https://github.com/markkennethbadilla/flow-llm) — Semantic Cache
@@ -97,8 +86,6 @@ I build AI systems, agentic workflows — and production infrastructure. I belie
 
 `TypeScript` `Node.js` `Embeddings`
 
-</td>
-<td width="50%">
 </td>
 </tr>
 </table>
