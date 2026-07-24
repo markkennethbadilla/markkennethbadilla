@@ -59,9 +59,25 @@ I build AI systems, agentic workflows — and production infrastructure. I belie
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-74c69d?style=flat-square&logo=cloudflare&logoColor=0b1215)
 ![Linux](https://img.shields.io/badge/Linux-74c69d?style=flat-square&logo=linux&logoColor=0b1215)
 ![Docker](https://img.shields.io/badge/Docker-74c69d?style=flat-square&logo=docker&logoColor=0b1215)
+![Coolify](https://img.shields.io/badge/Coolify-74c69d?style=flat-square&logo=coolify&logoColor=0b1215)
+![BullMQ](https://img.shields.io/badge/BullMQ%20%2F%20Redis-74c69d?style=flat-square&logo=redis&logoColor=0b1215)
 ![Git](https://img.shields.io/badge/Git-74c69d?style=flat-square&logo=git&logoColor=0b1215)
 
 </div>
+
+---
+
+### 🪵 &nbsp; Groundwork
+
+<div align="center">
+
+*Infrastructure & Resilience — where the roots hold.*
+
+</div>
+
+Architected **zero-downtime twin-server failover** — a direct image-build-to-cutover deploy engine (local build → on-box registry → health-gated cutover) keeps production live through every ship, so a bad release never reaches a user. Self-hosted on Cloudflare-fronted Linux VPS infrastructure, orchestrated with **Docker + Coolify**, with **BullMQ/Redis** carrying the background work. Multi-model **LLM cascades** (8-model routing) and self-hosted voice/TTS pipelines run on the same rails.
+
+The philosophy: build the watering system once, then let it run unattended.
 
 ---
 
