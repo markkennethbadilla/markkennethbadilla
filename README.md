@@ -85,6 +85,18 @@ The philosophy: build the watering system once, then let it run unattended.
 
 <table>
 <tr>
+<td colspan="2">
+
+#### 🛡️ &nbsp; [public-agent-provisioning](https://github.com/markkennethbadilla/public-agent-provisioning) — Agent Guardrails Toolkit
+
+> **Gate, don't ask.** A batteries-included toolkit that makes AI coding agents safe *by construction* — physical PreToolUse/Stop hooks, pre-commit/pre-push git gates, and a two-layer skill system that **block the wrong move and print the fix**, instead of hoping a prompt holds. Cross-platform, `SKILL.md`-native, zero bundled secrets.
+
+`Physical guardrails` `Claude Code` `Hooks & Gates` `Cross-platform`
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
 <td width="50%">
 
 #### 🧹 &nbsp; [clean-pipe](https://github.com/markkennethbadilla/clean-pipe) — Data Normalization
