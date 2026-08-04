@@ -85,40 +85,15 @@ The philosophy: build the watering system once, then let it run unattended.
 
 ### 🗺️ &nbsp; Mapped Terrain
 
-<table>
-<tr>
-<td colspan="2">
+#### 🌐 &nbsp; [markkennethbadilla.com](https://markkennethbadilla.com) — Live agent harness
 
-#### 🛡️ &nbsp; [public-agent-provisioning](https://github.com/markkennethbadilla/public-agent-provisioning) — Agent Guardrails Toolkit
+> Ask an agent for something dangerous and watch it fail. A live model writes the change; deterministic gates run on its output **in your browser**, from source you can read; a blocked gate feeds its reason back and the model rewrites. Per-attempt latency, tokens, cost and fallback depth are on screen. Not a chatbot — a pipeline you can point at.
 
-> **Gate, don't ask.** A batteries-included toolkit that makes AI coding agents safe *by construction* — physical PreToolUse/Stop hooks, pre-commit/pre-push git gates, and a two-layer skill system that **block the wrong move and print the fix**, instead of hoping a prompt holds. Cross-platform, `SKILL.md`-native, zero bundled secrets.
+`Agent harness` `Physical guardrails` `Cloudflare Workers` `Vercel AI SDK` `Zod`
 
-`Physical guardrails` `Claude Code` `Hooks & Gates` `Cross-platform`
+<br/>
 
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="50%">
-
-#### 🧹 &nbsp; [clean-pipe](https://github.com/markkennethbadilla/clean-pipe) — Data Normalization
-
-> AI pipeline that cleans, validates, and normalizes messy data. Configurable rules, batch processing, LLM-assisted transforms.
-
-`TypeScript` `OpenRouter` `Node.js`
-
-</td>
-<td width="50%">
-
-#### ⚡ &nbsp; [flow-llm](https://github.com/markkennethbadilla/flow-llm) — Semantic Cache
-
-> Caching layer for LLM APIs. Reduces redundant calls with semantic similarity matching. Drop-in middleware.
-
-`TypeScript` `Node.js` `Embeddings`
-
-</td>
-</tr>
-</table>
+*An agent-guardrails template is being extracted from my private provisioning tree — rules loaded every turn, skills on demand, hooks that intercept tool calls, git guards, and a self-check tier that forces every guard to fire. It lands here when it is genuinely forkable, not before.*
 
 
 
