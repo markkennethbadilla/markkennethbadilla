@@ -14,7 +14,7 @@
 
 AI Engineer from Cebu City, Philippines. BSIT, Magna Cum Laude — CIT-University, class of 2025. Currently at **WeAssist**.
 
-I build AI systems, agentic workflows — and production infrastructure. I believe in building resilient logic and automating the heavy lifting. I believe in patient craftsmanship — plant good roots, prune what doesn't work, and let automation do the watering.
+I build agentic harnesses — the gates, guardrails, and verification layers that let LLM agents write production code safely — and the production systems that come out of them. I believe in patient craftsmanship: plant good roots, prune what doesn't work, and let automation do the watering.
 
 <div align="center">
 
@@ -75,7 +75,9 @@ I build AI systems, agentic workflows — and production infrastructure. I belie
 
 </div>
 
-Architected **zero-downtime twin-server failover** — a direct image-build-to-cutover deploy engine (local build → on-box registry → health-gated cutover) keeps production live through every ship, so a bad release never reaches a user. Self-hosted on Cloudflare-fronted Linux VPS infrastructure, orchestrated with **Docker + Coolify**, with **BullMQ/Redis** carrying the background work. Multi-model **LLM cascades** (8-model routing) and self-hosted voice/TTS pipelines run on the same rails.
+**300+ self-authored static checks** across four production repos, chained into the build (gate suite, zero-warning lint, type checks) so an agent — or a tired human — physically cannot ship a regression. The gates audit themselves: I found a bypass in my own gate-skip logic and closed it the same day.
+
+Underneath: **three self-hosted servers across three providers**, private network, nothing exposed to the public internet. Six live outage drills including killing the main server outright — back to writing in 66s, zero data lost. One **18-step zero-downtime deploy engine** ships five production apps byte-identically, and every deploy proves its backup restores before anything migrates. Cloudflare-fronted Linux, orchestrated with **Docker + Coolify**, **BullMQ/Redis** carrying the background work, multi-model **LLM cascades** and self-hosted voice/TTS pipelines on the same rails.
 
 The philosophy: build the watering system once, then let it run unattended.
 
