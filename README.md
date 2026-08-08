@@ -16,7 +16,7 @@ Full Stack AI Engineer from Cebu City, Philippines. BSIT, Magna Cum Laude — CI
 
 I build AI systems end to end, full stack in the literal sense — the conversational interface, the API under it, the database under that, the infrastructure under that, and the integrations either side. On top of all of it goes the harness: the gates, guardrails and verification layers that let an LLM agent write production code safely.
 
-Hand me a goal instead of a spec and you get the diagnosis as well as the build. My current role started as one sentence from the CEO — cut costs, fix churn, save everyone time — and the discovery was mine to do. Four months on: **~120 hours a month** of manual operations work eliminated across 90+ monitored operations, **~$52k/yr** of redundant software spend found and replaced, **9 departments** mapped end to end, and the platform the company now runs its operations on.
+Hand me a goal instead of a spec and you get the diagnosis as well as the build. I work out how the job actually gets done today, decide what is worth buying and what is worth building, then build it and run it in production — schema, services, interface, infrastructure, and the AI on top.
 
 I believe in patient craftsmanship — plant good roots, prune what doesn't work, and let automation do the watering.
 
