@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1215,25:1a3a2a,50:2d6a4f,100:52b788&height=230&section=header&text=Mark%20Kenneth%20Badilla&fontSize=42&fontColor=d8f3dc&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Cebu%20City%2C%20Philippines&descSize=15&descColor=95d5b2&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1215,25:1a3a2a,50:2d6a4f,100:52b788&height=230&section=header&text=Mark%20Kenneth%20Badilla&fontSize=42&fontColor=d8f3dc&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20AI%20Engineer%20%C2%B7%20Cebu%20City%2C%20Philippines&descSize=14&descColor=95d5b2&descAlignY=55" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=600&size=22&duration=3500&pause=1200&color=95D5B2&center=true&vCenter=true&repeat=true&width=700&height=45&lines=planting+seeds+of+code+%E2%80%94+watching+systems+grow;every+project+is+a+living+ecosystem;rooted+in+craft%2C+reaching+for+the+sun" alt="Typing SVG" />
@@ -12,9 +12,13 @@
 
 ### 🌱 &nbsp; The Seed
 
-AI Engineer from Cebu City, Philippines. BSIT, Magna Cum Laude — CIT-University, class of 2025. Currently at **WeAssist**.
+Full Stack AI Engineer from Cebu City, Philippines. BSIT, Magna Cum Laude — CIT-University, class of 2025. Currently at **WeAssist**.
 
-I build AI systems end to end — the conversational interface, the API under it, the database under that, and the integrations either side. What makes it a speciality rather than ordinary full-stack work is the harness I put around it: the gates, guardrails and verification layers that let an LLM agent write production code safely. I believe in patient craftsmanship — plant good roots, prune what doesn't work, and let automation do the watering.
+I build AI systems end to end, full stack in the literal sense — the conversational interface, the API under it, the database under that, the infrastructure under that, and the integrations either side. On top of all of it goes the harness: the gates, guardrails and verification layers that let an LLM agent write production code safely.
+
+Hand me a goal instead of a spec and you get the diagnosis as well as the build. My current role started as one sentence from the CEO — cut costs, fix churn, save everyone time — and the discovery was mine to do. Four months on: **~120 hours a month** of manual operations work eliminated across 90+ monitored operations, **~$52k/yr** of redundant software spend found and replaced, **9 departments** mapped end to end, and the platform the company now runs its operations on.
+
+I believe in patient craftsmanship — plant good roots, prune what doesn't work, and let automation do the watering.
 
 <div align="center">
 
