@@ -104,9 +104,9 @@ I believe in patient craftsmanship, plant good roots, prune what doesn't work, a
 
 </div>
 
-**300+ self-authored static checks** across four production repos, chained into the build (gate suite, zero-warning lint, type checks) so an agent, or a tired human, physically cannot ship a regression. The gates audit themselves: I found a bypass in my own gate-skip logic and closed it the same day.
+**300+ self-authored static checks**, chained into the build (gate suite, zero-warning lint, type checks) so an agent, or a tired human, physically cannot ship a regression. The gates audit themselves: I found a bypass in my own gate-skip logic and closed it the same day.
 
-Underneath: **three self-hosted servers across three providers**, with **no open ports on any of them**, every path in goes through an authenticated tunnel or a private network. Six live outage drills including killing the main server outright, back to writing in 66s, zero data lost. One **18-step zero-downtime deploy engine** ships five production apps byte-identically, and every deploy proves its backup restores before anything migrates. Cloudflare-fronted Linux, orchestrated with **Docker + Coolify**, **BullMQ/Redis** carrying the background work, multi-model **LLM cascades** and self-hosted voice/TTS pipelines on the same rails.
+Underneath: everything **self-hosted with Coolify** at one flat rate, so adding another service never adds another bill. Six live outage drills including killing the main server outright, back to writing in 66s, zero data lost. One **18-step zero-downtime deploy engine** ships every app byte-identically, and every deploy proves its backup restores before anything migrates. Cloudflare-fronted Linux, **Docker** underneath, **BullMQ/Redis** carrying the background work, multi-model **LLM cascades** and self-hosted voice/TTS pipelines on the same rails.
 
 The philosophy: build the watering system once, then let it run unattended.
 
