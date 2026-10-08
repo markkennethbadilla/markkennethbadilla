@@ -106,7 +106,7 @@ I believe in patient craftsmanship, plant good roots, prune what doesn't work, a
 
 **300+ self-authored static checks**, chained into the build (gate suite, zero-warning lint, type checks) so an agent, or a tired human, physically cannot ship a regression. The gates audit themselves: I found a bypass in my own gate-skip logic and closed it the same day.
 
-Underneath: everything **self-hosted with Coolify** at one flat rate, so adding another service never adds another bill. One **18-step zero-downtime deploy engine** ships every app byte-identically, and every deploy proves its backup restores before anything migrates. Cloudflare-fronted Linux, **Docker** underneath, **BullMQ/Redis** carrying the background work, multi-model **LLM cascades** and self-hosted voice/TTS pipelines on the same rails.
+Underneath: I **maintain a self-hosted server with Coolify**, every service behind **Cloudflare Tunnel**, at one flat rate, so adding another service never adds another bill. One **18-step zero-downtime deploy engine** ships every app byte-identically, and every deploy proves its backup restores before anything migrates. Cloudflare-fronted Linux, **Docker** underneath, **BullMQ/Redis** carrying the background work, multi-model **LLM cascades** and self-hosted voice/TTS pipelines on the same rails.
 
 The philosophy: build the watering system once, then let it run unattended.
 
